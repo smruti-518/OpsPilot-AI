@@ -1,0 +1,6 @@
+2026-11-19 11:00:01 INFO API service started
+2026-11-19 11:00:02 WARNING API response time exceeded threshold
+2026-11-19 11:00:03 ERROR API request timeout
+2026-11-19 11:00:04 ERROR API request timeout
+2026-11-19 11:00:05 WARNING Payment service response delayed
+2026-11-19 11:00:06 ERROR API gateway request failed

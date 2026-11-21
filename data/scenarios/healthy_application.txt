@@ -1,0 +1,5 @@
+2026-11-19 14:00:01 INFO Application started successfully
+2026-11-19 14:00:02 INFO Database connection established
+2026-11-19 14:00:03 INFO Payment service initialized
+2026-11-19 14:00:04 INFO API health check passed
+2026-11-19 14:00:05 INFO All services operating normally

@@ -1,0 +1,6 @@
+2026-11-19 10:15:01 INFO Application started
+2026-11-19 10:15:02 ERROR Database connection failed
+2026-11-19 10:15:03 ERROR Database connection failed
+2026-11-19 10:15:04 WARNING Connection pool usage is high
+2026-11-19 10:15:05 ERROR Payment transaction failed
+2026-11-19 10:15:06 WARNING Database response time is high

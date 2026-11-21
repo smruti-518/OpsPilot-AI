@@ -1,0 +1,6 @@
+2026-11-19 12:00:01 INFO Monitoring service started
+2026-11-19 12:00:02 WARNING CPU utilization reached 92 percent
+2026-11-19 12:00:03 WARNING Memory utilization reached 95 percent
+2026-11-19 12:00:04 ERROR Application process out of memory
+2026-11-19 12:00:05 ERROR Worker process terminated
+2026-11-19 12:00:06 WARNING System response time increased

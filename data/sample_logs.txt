@@ -1,0 +1,9 @@
+
+2026-11-19 10:15:01 INFO Application started successfully
+2026-11-19 10:15:02 INFO Payment service initialized
+2026-11-19 10:15:03 WARNING Payment API response time is high
+2026-11-19 10:15:04 ERROR Database connection failed
+2026-11-19 10:15:05 ERROR Database connection failed
+2026-11-19 10:15:06 WARNING Connection pool usage is high
+2026-11-19 10:15:07 ERROR Payment transaction failed
+2026-11-19 10:15:08 INFO Health check completed

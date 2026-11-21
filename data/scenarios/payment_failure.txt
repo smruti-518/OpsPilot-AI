@@ -1,0 +1,6 @@
+2026-11-19 13:00:01 INFO Payment service started
+2026-11-19 13:00:02 WARNING Payment gateway response delayed
+2026-11-19 13:00:03 ERROR Payment gateway unavailable
+2026-11-19 13:00:04 ERROR Payment transaction failed
+2026-11-19 13:00:05 ERROR Payment transaction failed
+2026-11-19 13:00:06 WARNING Checkout requests are delayed
