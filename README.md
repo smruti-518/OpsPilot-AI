@@ -36,7 +36,7 @@ It analyzes application logs, identifies errors and warnings, assigns a prototyp
 ## Project Structure
 
 ```text
-OpsPilot-AI-Incident-Analyzer/
+OpsPilot-AI/
 │
 ├── app.py
 ├── requirements.txt
@@ -79,8 +79,8 @@ OpsPilot-AI-Incident-Analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/smruti-518/OpsPilot-AI-Incident-Analyzer.git
-cd OpsPilot-AI-Incident-Analyzer
+git clone https://github.com/smruti-518/OpsPilot-AI.git
+cd OpsPilot-AI
 ```
 
 
